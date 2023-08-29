@@ -11,5 +11,5 @@ class Driver extends Model
 
     protected $guarded = [];
 
-    use $HTTP_RAW_POST_DATA = [];
+    
 }
